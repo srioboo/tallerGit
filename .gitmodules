@@ -1,0 +1,3 @@
+[submodule "tallerGit-collab"]
+	path = tallerGit-collab
+	url = git@github.com:srioboo/tallerGit-collab.git
